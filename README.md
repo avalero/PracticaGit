@@ -1,1 +1,28 @@
-# PracticaGit
+# Practica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AlvaroSanchiz estuvo aqui.
